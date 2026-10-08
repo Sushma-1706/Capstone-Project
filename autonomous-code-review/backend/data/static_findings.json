@@ -1,0 +1,9 @@
+[
+  {
+    "id": "F001",
+    "type": "SQL_INJECTION",
+    "line": 3,
+    "severity": "HIGH",
+    "message": "Possible SQL injection detected"
+  }
+]

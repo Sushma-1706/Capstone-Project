@@ -1,0 +1,11 @@
+[
+  {
+    "id": "F001",
+    "type": "SQL_INJECTION",
+    "line": 3,
+    "severity": "CRITICAL",
+    "confidence": 0.94,
+    "message": "User input is directly concatenated into SQL query",
+    "suggestion": "Use parameterized queries"
+  }
+]
