@@ -1,0 +1,1 @@
+"""Validated finding models."""

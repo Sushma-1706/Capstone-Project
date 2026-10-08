@@ -1,0 +1,22 @@
+{
+  "weights": {
+    "severity": 0.35,
+    "confidence": 0.15,
+    "security_impact": 0.25,
+    "code_impact": 0.15,
+    "exploitability": 0.10
+  },
+  "severity_base_scores": {
+    "CRITICAL": 10.0,
+    "HIGH": 8.0,
+    "MEDIUM": 5.0,
+    "LOW": 2.0,
+    "INFO": 1.0
+  },
+  "risk_thresholds": {
+    "CRITICAL": 8.5,
+    "HIGH": 6.5,
+    "MEDIUM": 4.0,
+    "LOW": 0.0
+  }
+}
